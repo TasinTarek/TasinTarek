@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TasinTarek
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently an undergraduate BsC Cse
+     Daffodil International University.
 - 💞️ I’m looking to collaborate as a frontend
       webdeveloper.
 - 📫 How to reach me ...

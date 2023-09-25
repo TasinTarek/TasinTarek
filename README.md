@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TasinTarek
-- 👀 I’m an Intern @ Daffodil Software as a odoo full stack developer.
+- 👀 I’m an Junior Software Developer @ Daffodil Software Limited.
 - Also- A React.js Developer. 
 - 🌱 I’m currently an undergraduate @ BsC in CSE @ Daffodil International University
 - 💞️ I’m looking to collaborate as a fullstack developer.

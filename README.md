@@ -29,7 +29,7 @@
 ### 📫 Reach Me
 
 - 📧 Email: tasin.tarek13@gmail.com  
-- 🌐 Portfolio: https://www.tasintarek.odoo.com 
+- 🌐 Portfolio: https://tasintarek.odoo.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/tasin-tarek/  
 
 ---
